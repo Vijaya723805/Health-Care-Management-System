@@ -19,6 +19,3 @@ The Health Care Management System is a web-based application designed to manage 
 
 ## Purpose
 This project aims to reduce manual work in healthcare centers, improve data accuracy, and provide quick access to medical information for better patient care.
-
-## Installation
-1. Clone the repository  
